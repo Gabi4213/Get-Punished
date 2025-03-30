@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|g:\\unity\\unityprojects\\git\\get-punished\\game that punishes\\assets\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EB84BBC-F16B-A986-B92D-136F36EF2593}|Assembly-CSharp.csproj|g:\\unity\\unityprojects\\git\\get-punished\\game that punishes\\assets\\camera_follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB84BBC-F16B-A986-B92D-136F36EF2593}|Assembly-CSharp.csproj|solutionrelative:assets\\camera_follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB84BBC-F16B-A986-B92D-136F36EF2593}|Assembly-CSharp.csproj|g:\\unity\\unityprojects\\git\\get-punished\\game that punishes\\assets\\auto_attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB84BBC-F16B-A986-B92D-136F36EF2593}|Assembly-CSharp.csproj|solutionrelative:assets\\auto_attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB84BBC-F16B-A986-B92D-136F36EF2593}|Assembly-CSharp.csproj|G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB84BBC-F16B-A986-B92D-136F36EF2593}|Assembly-CSharp.csproj|solutionrelative:assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "camera_follow.cs",
+              "DocumentMoniker": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\camera_follow.cs",
+              "RelativeDocumentMoniker": "Assets\\camera_follow.cs",
+              "ToolTip": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\camera_follow.cs",
+              "RelativeToolTip": "Assets\\camera_follow.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:53:55.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "projectile.cs",
+              "DocumentMoniker": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\projectile.cs",
+              "ToolTip": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\projectile.cs",
+              "RelativeToolTip": "Assets\\projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:27:32.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auto_attack.cs",
+              "DocumentMoniker": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\auto_attack.cs",
+              "RelativeDocumentMoniker": "Assets\\auto_attack.cs",
+              "ToolTip": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\auto_attack.cs",
+              "RelativeToolTip": "Assets\\auto_attack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:23:29.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "player_movement.cs",
               "DocumentMoniker": "G:\\Unity\\UnityProjects\\Git\\Get-Punished\\Game That Punishes\\Assets\\player_movement.cs",
               "RelativeDocumentMoniker": "Assets\\player_movement.cs",
@@ -26,8 +76,7 @@
               "RelativeToolTip": "Assets\\player_movement.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T14:10:23.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T14:10:23.639Z"
             }
           ]
         }
